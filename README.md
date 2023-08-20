@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Tanveer Ahmed</h1>
 <h2>Trainee Software engineer at BJIT </h2>
-I Am A Laravel Back-End Developer , recently i am learning MERN at BJIT academy. I Am Also Fascinated With AI .Previously I Have Worked With Machine Learning And Deep Learning Technology To Develop A Project Named Bangla Licence Plate Detection & Recognition Using Artificial Neural Network.I Am A Problem Solver And Fast Learner, I Have Participated Many Programming Contests, ICPC-2019 Is A Notable One Among Them  As A Computer Science & Engineering Graduate I Am Seeking A Position In A Competitive Environment That Would Challenge Me To Push My Boundaries And Expand My Knowledge In This Field Of Computer Science.I Always Try To Push Myself Beyond My Level. I Love To Share Knowledge.
+I am a Laravel back-end developer , recently i am learning MERN at BJIT academy. I am also fascinated with aI .Previously i have worked with machine learning and deep learning technology to develop a project named bangla licence plate detection & recognition using artificial neural network.I am a problem solver and fast learner, I have participated many programming contests, ICPC-2019 is a notable one among them  as a computer science & engineering graduate i am seeking a position in a competitive environment that would challenge me to push my boundaries and expand my knowledge in this field of computer science.I always try to push myself beyond my level. I love to share knowledge.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanveerbjit&label=Profile%20views&color=0e75b6&style=flat" alt="tanveerbjit" /> </p>
 

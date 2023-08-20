@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/141206427/261572269-6d5925d6-cf7b-483e-9aa9-ec897ba1340d.png" alt="Banner" width="100%">
+  <img src="https://user-images.githubusercontent.com/141206427/261862940-ac118c79-ef53-4761-8ecf-d603a461dfca.gif" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanveer Ahmed</h1>

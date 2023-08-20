@@ -14,7 +14,7 @@ I am a Laravel back-end developer , recently i am learning MERN at BJIT academy.
 
 <h2>👨‍💻 All of my projects are available at</h2>All of my work is available in this link: https://tanveercu.github.io/my-portfolio/
 
-<h2>💬 Ask me about</h2> Node-js, React-js, laravel, Mysql, MongoDB
+<h2>💬 Ask me about</h2> Node-js, React-js, Express-Js, laravel, Mysql, MongoDB
 
 <h2>📫 How to reach me</h2> atanveer712@gmail.com
 

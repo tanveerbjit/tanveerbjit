@@ -13,17 +13,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [telemedicine healthcare platform](https://valerehealthcare.co/)
+<h2>🔭 I’m currently working on: </h2> I ama currently working on a telemedicine healthcare platform here my role is to build entire backend for patient dashboard, doctor dashboard, hospital dashboard, and admin dashboard with different role. my work link is here: https://valerehealthcare.co/
 
-- 🌱 I’m currently learning **MERN**
+<h2>🌱 I’m currently learning</h2> I am currently learning MERN at BJIT academy
 
-- 👨‍💻 All of my projects are available at [https://github.com/TanveerCU](https://github.com/TanveerCU)
+<h2>👨‍💻 All of my projects are available at</h2>All of my work is available in this link: https://tanveercu.github.io/my-portfolio/
 
-- 💬 Ask me about **Node-js, React-js, laravel, Mysql, MongoDB**
+<h2>💬 Ask me about</h2> Node-js, React-js, laravel, Mysql, MongoDB
 
-- 📫 How to reach me **atanveer712@gmail.com**
+<h2>📫 How to reach me</h2> atanveer712@gmail.com
 
-- 📄 Know about my experiences [https://tanveercu.github.io/my-portfolio/](https://tanveercu.github.io/my-portfolio/)
+<h2>📄 Know about my experiences</h2> to see my proffesional work visit this link: https://valerehealthcare.co/ 
+  to see my personal project visit this link: https://tanveercu.github.io/my-portfolio/
 
 - ⚡ Fun fact **I love to travel with motor bike**
 
